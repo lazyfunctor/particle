@@ -85,7 +85,7 @@ body {
     line-height: 1;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 100px;
+      font-size: 75px;
     }
   }
   .site-description {
@@ -94,7 +94,7 @@ body {
     line-height: 1;
     margin: 5px 0 10px 0;
     @media only screen and (min-width:$cut){
-      font-size: 40px;
+      font-size: 30px;
     }
   }
   .link {
@@ -173,15 +173,18 @@ body {
   }
 }
 
+.user .columns {
+  margin-left: 2.5% !important;
+}
+
 .user {
   text-align: center;
-  margin: 20px auto;
   font-size: 60px;
   p {
     font-size: 16px;
   }
   @media only screen and (min-width: $cut) {
-    font-size: 75px;
+    font-size: 60px;
   }
 }
 

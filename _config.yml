@@ -1,17 +1,26 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Abhinav Kaushik
+description: Abhinav Kaushik
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Abhinav Kaushik
+user_description: >
+                    I'm an independent consultant with more than 10 years of experience in software development
+                    in fields ranging from supply chain to legal discovery. I code primarily in Python, Django and Javascript.
+                    Over the years, I have helped startups launch MVPs,
+                    revamp their existing product & architecture. I get involved in the whole process right from ironing out the requirements to
+                    deployment automation of the product. I'm experienced in setting up high availabity webapps on AWS. Information security is an
+                    area of interest for me and it's an integral part of all my work (not an afterthought)
+user_description2: >
+                    I'm available for freelance work. If you are looking to hire me, send me an email on abhinav.kaushik@gmail.com
+user_title: Web Developement Consultant
+email: abhinav.kaushik@gmail.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  lazyfunctor
 gplus_username:  lorem_ipsum
+linkedin_profile: https://www.linkedin.com/in/abhinav-kaushik-8a6a268/
 
 # Google-analytics
 google-analytics:
